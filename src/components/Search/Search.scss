@@ -1,0 +1,27 @@
+.wrapper {
+  align-items: center;
+  background: #333;
+  display: flex;
+  height: 10rem;
+  padding: 0 4rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.searchIcon {
+  font-size: 3rem;
+  margin-right: 1.5rem;
+  padding-top: 1.5rem;
+}
+
+.input {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.3);
+  color: white;
+  font-size: 2rem;
+  height: 3rem;
+  outline: none;
+  width: 100%;
+}
